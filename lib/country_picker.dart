@@ -13,6 +13,8 @@ export 'src/country_list_view.dart' show CustomFlagBuilder;
 export 'src/country_localizations.dart';
 export 'src/country_parser.dart';
 export 'src/country_service.dart';
+export 'src/res/country_codes.dart';
+export 'src/utils.dart';
 
 /// Shows a bottom sheet containing a list of countries to select one.
 ///
